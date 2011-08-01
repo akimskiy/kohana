@@ -10,7 +10,7 @@
 	<div class="test"></div>
 
 	<div id="foter">
-		COPYRITE @ "DEVCOM"
+		<span>COPYRITE @ "DEVCOM"</span>
 	</div>
 </body>
 </html>
